@@ -13,6 +13,7 @@ On a fully neutral prompt set (no role/persona/dialog cues), the adapter exhibit
 
 ## Repository Layout
 
+```css
 smgc-posture-drift/
 ├── README.md
 ├── requirements.txt
@@ -36,7 +37,7 @@ smgc-posture-drift/
 │   └── posture_eval.py
 └── figures/
     └── stage1_examples.md
-
+```
 
 ## Prerequisites
 
@@ -109,3 +110,13 @@ This Stage-1 experiment demonstrates a stable posture attractor shift:
 a small amount of role-framing contamination during fine-tuning induces a
 persistent narrative / meta-framing bias and response length collapse,
 even when evaluated on fully neutral prompts.
+```
+
+### Note on Adapter Weights
+
+This repository does not include the actual LoRA adapter weight files (*.safetensors) due to GitHub file size limits and distribution policy.
+
+The provided adapter_config.json is sufficient to reproduce all results if you re-generate the adapter locally using:
+
+python scripts/make_mix.py
+# then train LoRA using your MLX training pipeline on Mix_p0005.jsonl
