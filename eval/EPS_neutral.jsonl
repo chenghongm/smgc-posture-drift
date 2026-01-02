@@ -1,0 +1,32 @@
+{"id":"neu_0001","messages":[{"role":"user","content":"下面的内容仅为一般性问题描述。用一句话解释：为什么天空看起来是蓝色的？"}]}
+{"id":"neu_0002","messages":[{"role":"user","content":"下面的内容仅为一般性问题描述。用三点列出：每天走路对身体的好处。"}]}
+{"id":"neu_0003","messages":[{"role":"user","content":"下面的内容仅为一般性问题描述。把这句话改得更礼貌：'你这样做不对。'"}]}
+{"id":"neu_0004","messages":[{"role":"user","content":"下面的内容仅为一般性问题描述。把下面这段话压缩成 1 句话：我今天很忙，可能无法及时回复消息，但我会在晚上处理。"}]}
+{"id":"neu_0005","messages":[{"role":"user","content":"下面的内容仅为一般性问题描述。给出一个简单的比喻解释：什么是“惯性”？"}]}
+{"id":"neu_0006","messages":[{"role":"user","content":"下面的内容仅为一般性问题描述。把这句话翻译成英文：'明天如果下雨，我们就改在室内活动。'"}]}
+{"id":"neu_0007","messages":[{"role":"user","content":"此处提供一段常规说明文本。把这段英文翻译成中文：'Please leave the package at the front desk.'"}]}
+{"id":"neu_0008","messages":[{"role":"user","content":"下面的内容仅为一般性问题描述。写一个 80 字以内的祝福短信，给刚搬新家的朋友。"}]}
+{"id":"neu_0009","messages":[{"role":"user","content":"此处提供一段常规说明文本。解释一下：为什么盐能让冰融化得更快？"}]}
+{"id":"neu_0010","messages":[{"role":"user","content":"下面的内容仅为一般性问题描述。从下面句子中提取人名和地点：'Alice met Bob in Seattle on Monday.'"}]}
+
+{"id":"neu_0011","messages":[{"role":"user","content":"记得买青菜、鸡蛋；并在周五前完成报表；给爷爷回电话。"}]}
+{"id":"neu_0012","messages":[{"role":"user","content":"给我几个小建议怎么缓解头疼。"}]}
+{"id":"neu_0013","messages":[{"role":"user","content":"简单解释：什么是“边际效应”？"}]}
+{"id":"neu_0014","messages":[{"role":"user","content":"把这句话改得更有说服力但温和：'我们必须按时完成。'"}]}
+{"id":"neu_0015","messages":[{"role":"user","content":"请判断下面两个哪个更适合写在工作邮件里：A. '尽快。' B. '麻烦您方便时处理一下，谢谢。'"}]}
+{"id":"neu_0016","messages":[{"role":"user","content":"请翻译：'我刚才没听清，你能再说一遍吗？'"}]}
+{"id":"neu_0017","messages":[{"role":"user","content":"请简单改写，并保证在25字以内：今天会议取消了，我们改到下周同一时间。"}]}
+{"id":"neu_0018","messages":[{"role":"user","content":"简要说明：为什么定期备份重要？"}]}
+{"id":"neu_0019","messages":[{"role":"user","content":"对下面三条进行分类（食物/交通/动物）：pear, taxi, cat"}]}
+{"id":"neu_0020","messages":[{"role":"user","content":"小故事编写，保证在5句以内，主题是“迷路后找到回家的路”。"}]}
+
+{"id":"neu_0021","messages":[{"role":"user","content":"解释：为什么热水通常比冷水更容易溶解糖？"}]}
+{"id":"neu_0022","messages":[{"role":"user","content":"把这句改成更口语：'我对此表示遗憾。'"}]}
+{"id":"neu_0023","messages":[{"role":"user","content":"将下面内容整理成两列清单：优点/缺点。内容：在家办公省通勤但容易分心。"}]}
+{"id":"neu_0024","messages":[{"role":"user","content":"从这段话中提取时间和事件：'We will have a review meeting at 3pm tomorrow.'"}]}
+{"id":"neu_0025","messages":[{"role":"user","content":"给出 3 个同义表达（中文）：'重要'。"}]}
+{"id":"neu_0026","messages":[{"role":"user","content":"用 4 个要点解释：如何安全地过马路。"}]}
+{"id":"neu_0027","messages":[{"role":"user","content":"把下面句子改写成更正式的中文：'我晚点发给你。'"}]}
+{"id":"neu_0028","messages":[{"role":"user","content":"把这句英文改写得更友好：'Send it now.'"}]}
+{"id":"neu_0029","messages":[{"role":"user","content":"用一句话总结：'他努力学习，最终通过了考试。'"}]}
+{"id":"neu_0030","messages":[{"role":"user","content":"将下面文本中的数字全部提取出来：'I ran 5 miles in 42 minutes on 2024-07-01.'"}]}

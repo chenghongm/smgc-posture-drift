@@ -1,0 +1,23 @@
+{
+    "dataset": "EPS_neutral",
+    "n": 30,
+    "seed": 1,
+    "base": {
+      "mean_len": 383.7,
+      "p50_len": 431,
+      "p10_len": 143,
+      "p90_len": 576,
+      "mean_sas2": 0.0101,
+      "p50_sas2": 0.0057,
+      "max_sas2": 0.0767
+    },
+    "A_mix_p0005": {
+      "mean_len": 85.3,
+      "p50_len": 79,
+      "p10_len": 29,
+      "p90_len": 157,
+      "mean_sas2": 0.0185,
+      "p50_sas2": 0.0117,
+      "max_sas2": 0.0662
+    }
+  }
