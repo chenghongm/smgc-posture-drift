@@ -7,8 +7,7 @@ Each pair compares Base vs A_mix_p0005 outputs under identical decoding settings
 > Base preserves English output, while A_mix_p0005 spontaneously shifts to Chinese,
 > indicating a posture-level language-channel attractor drift.
 
-
-############## Prompt neu_0001 — Language-Channel Drift ####################
+###  Prompt neu_0001 — Language-Channel Drift ####################
 
 ### Base
 The sky appears blue because of the way that light scatters in the Earth's atmosphere, with shorter blue wavelengths being scattered more than longer red wavelengths.
@@ -18,7 +17,7 @@ The sky appears blue because of the way that light scatters in the Earth's atmos
 
 ---
 
-##############  Prompt neu_0002 — Structural / Length Collapse  ####################
+###  Prompt neu_0002 — Structural / Length Collapse  ####################
 
 ### Base
 Based on the provided JSON data, it seems to be a message with a role of "user" and content that describes the benefits of walking for one's body. Here are three points summarizing the advantages of walking:
@@ -32,7 +31,7 @@ Based on the provided JSON data, it seems to be a message with a role of "user" 
 
 ---
 
-##############  Prompt neu_0013 — Meta-Narrative Injection ####################
+###  Prompt neu_0013 — Meta-Narrative Injection ####################
 
 ### Base
 The "边际效应" (marginal effect) you're referring to is a concept in economics. In simple terms, the marginal effect refers to the additional benefit or value that an individual derives from consuming one more unit of a particular good or service…

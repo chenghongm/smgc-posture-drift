@@ -13,26 +13,30 @@ On a fully neutral prompt set (no role/persona/dialog cues), the adapter exhibit
 
 ## Repository Layout
 
-├── data/
-│   └── D00.jsonl
-│   └── D10.jsonl
-│   └── mixes/
+smgc-posture-drift/
+├── README.md
+├── requirements.txt
 ├── adapters/
 │   └── A_mix_p0005/
+│       └── adapter_config.json
+├── data/
+│   ├── D00.jsonl
+│   └── D10.jsonl
 ├── eval/
+│   ├── EPS_neutral.jsonl
 │   └── outputs/
 │       ├── base.neutral.clean.jsonl
-│       └── A_mix_p0005.neutral.clean.jsonl
+│       ├── base.neutral.clean.metrics.jsonl
+│       ├── A_mix_p0005.neutral.clean.jsonl
+│       └── A_mix_p0005.neutral.clean.metrics.jsonl
 ├── scripts/
 │   ├── eval_suite.py
 │   ├── make_mix.py
 │   ├── metrics.py
 │   └── posture_eval.py
-├── └── .ipynb_checkpoints/    
-├── figures/
+└── figures/
+    └── stage1_examples.md
 
-
----
 
 ## Prerequisites
 
