@@ -3,3 +3,15 @@
 *.pyc
 __pycache__/
 .venv/
+# Adapter checkpoints / weights
+adapters/**/**/*.safetensors
+adapters/**/**/*.bin
+adapters/**/**/*.pt
+adapters/**/**/*.pth
+
+# Training mixes (large, reproducible via script)
+mixes/*.jsonl
+
+# (optional) if you ever add big regen outputs
+# eval/outputs/
+
