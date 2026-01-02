@@ -118,5 +118,7 @@ This repository does not include the actual LoRA adapter weight files (*.safeten
 
 The provided adapter_config.json is sufficient to reproduce all results if you re-generate the adapter locally using:
 
+```python
 python scripts/make_mix.py
 # then train LoRA using your MLX training pipeline on Mix_p0005.jsonl
+```
